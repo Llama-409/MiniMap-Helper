@@ -1,0 +1,6 @@
+## Interface: 100207
+## Title: Minimap Helper
+## Notes: Blank config panel and slash command.
+## Author: Foxyllama
+## SavedVariables: MinimapHelperDB
+MinimapHelper.lua
